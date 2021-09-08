@@ -6,4 +6,3 @@ I'm a fourth year Mathematics-Computer Science student at UC San Diego. I love w
 - 🌱 I’m currently learning Python, Javascript, CSS, and HTML.
 - 👯 I’m looking to collaborate on any interesting problems or projects!
 - 😄 Pronouns: he/him
--->
