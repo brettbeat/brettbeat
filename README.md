@@ -1,4 +1,4 @@
-### Hi there, I'm Brett 👋
+### Hi there, I'm Brett 👋 
 
 I'm a fourth year Mathematics-Computer Science student at UC San Diego. I love working with others to solve problems!
 
